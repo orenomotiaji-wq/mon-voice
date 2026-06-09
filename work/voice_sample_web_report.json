@@ -1,0 +1,269 @@
+{
+  "target": {
+    "i": -16,
+    "tp": -1,
+    "lra": 11
+  },
+  "rows": [
+    {
+      "file": "01_vp.mp3",
+      "outputName": "01_vp_web.mp3",
+      "original": {
+        "duration": 26.070208,
+        "sizeBytes": 629781,
+        "bitRate": 193256,
+        "codec": "mp3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "loudness": {
+          "input_i": -29.62,
+          "input_tp": -13.59,
+          "input_lra": 5.1,
+          "input_thresh": -39.97,
+          "output_i": -15.6,
+          "output_tp": -1,
+          "output_lra": 4.5,
+          "output_thresh": -25.95,
+          "normalization_type": "dynamic",
+          "target_offset": -0.4
+        },
+        "silence": {
+          "leading": 1.009615,
+          "trailing": 0
+        }
+      },
+      "output": {
+        "duration": 23.03907,
+        "sizeBytes": 554535,
+        "bitRate": 192554,
+        "codec": "mp3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "loudness": {
+          "input_i": -15.97,
+          "input_tp": -1.24,
+          "input_lra": 3.6,
+          "input_thresh": -26.26,
+          "output_i": -15.78,
+          "output_tp": -1.05,
+          "output_lra": 3.1,
+          "output_thresh": -26.12,
+          "normalization_type": "dynamic",
+          "target_offset": -0.22
+        },
+        "silence": {
+          "leading": 0,
+          "trailing": 0
+        }
+      }
+    },
+    {
+      "file": "02_elearning.mp3",
+      "outputName": "02_elearning_web.mp3",
+      "original": {
+        "duration": 22.569833,
+        "sizeBytes": 545772,
+        "bitRate": 193451,
+        "codec": "mp3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "loudness": {
+          "input_i": -28.62,
+          "input_tp": -9.3,
+          "input_lra": 3.4,
+          "input_thresh": -38.95,
+          "output_i": -16.41,
+          "output_tp": -1,
+          "output_lra": 2.9,
+          "output_thresh": -26.88,
+          "normalization_type": "dynamic",
+          "target_offset": 0.41
+        },
+        "silence": {
+          "leading": 0.728481,
+          "trailing": 0
+        }
+      },
+      "output": {
+        "duration": 21.061383,
+        "sizeBytes": 507515,
+        "bitRate": 192775,
+        "codec": "mp3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "loudness": {
+          "input_i": -16.71,
+          "input_tp": -1.26,
+          "input_lra": 3.8,
+          "input_thresh": -27.12,
+          "output_i": -16.04,
+          "output_tp": -1,
+          "output_lra": 3.8,
+          "output_thresh": -26.43,
+          "normalization_type": "dynamic",
+          "target_offset": 0.04
+        },
+        "silence": {
+          "leading": 0,
+          "trailing": 0
+        }
+      }
+    },
+    {
+      "file": "03_webcm.mp3",
+      "outputName": "03_webcm_web.mp3",
+      "original": {
+        "duration": 15.804083,
+        "sizeBytes": 383394,
+        "bitRate": 194073,
+        "codec": "mp3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "loudness": {
+          "input_i": -22.58,
+          "input_tp": -5.42,
+          "input_lra": 1.5,
+          "input_thresh": -32.92,
+          "output_i": -15.67,
+          "output_tp": -1,
+          "output_lra": 1.2,
+          "output_thresh": -26,
+          "normalization_type": "dynamic",
+          "target_offset": -0.33
+        },
+        "silence": {
+          "leading": 0.909025,
+          "trailing": 0
+        }
+      },
+      "output": {
+        "duration": 14.151542,
+        "sizeBytes": 341376,
+        "bitRate": 192983,
+        "codec": "mp3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "loudness": {
+          "input_i": -15.82,
+          "input_tp": -1.21,
+          "input_lra": 1.2,
+          "input_thresh": -26.08,
+          "output_i": -15.78,
+          "output_tp": -1,
+          "output_lra": 1.3,
+          "output_thresh": -26.02,
+          "normalization_type": "dynamic",
+          "target_offset": -0.22
+        },
+        "silence": {
+          "leading": 0,
+          "trailing": 0
+        }
+      }
+    },
+    {
+      "file": "04_youtube.mp3",
+      "outputName": "04_youtube_web.mp3",
+      "original": {
+        "duration": 23.19675,
+        "sizeBytes": 560818,
+        "bitRate": 193412,
+        "codec": "mp3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "loudness": {
+          "input_i": -25.41,
+          "input_tp": -9.18,
+          "input_lra": 3.1,
+          "input_thresh": -35.8,
+          "output_i": -16.08,
+          "output_tp": -1,
+          "output_lra": 2.5,
+          "output_thresh": -26.46,
+          "normalization_type": "dynamic",
+          "target_offset": 0.08
+        },
+        "silence": {
+          "leading": 0.78381,
+          "trailing": 0
+        }
+      },
+      "output": {
+        "duration": 21.137574,
+        "sizeBytes": 509396,
+        "bitRate": 192792,
+        "codec": "mp3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "loudness": {
+          "input_i": -16.23,
+          "input_tp": -1.23,
+          "input_lra": 2.9,
+          "input_thresh": -26.48,
+          "output_i": -15.89,
+          "output_tp": -1,
+          "output_lra": 2.2,
+          "output_thresh": -26.16,
+          "normalization_type": "dynamic",
+          "target_offset": -0.11
+        },
+        "silence": {
+          "leading": 0,
+          "trailing": 0
+        }
+      }
+    },
+    {
+      "file": "05_audiobook.mp3",
+      "outputName": "05_audiobook_web.mp3",
+      "original": {
+        "duration": 27.428583,
+        "sizeBytes": 662382,
+        "bitRate": 193194,
+        "codec": "mp3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "loudness": {
+          "input_i": -29.61,
+          "input_tp": -14.68,
+          "input_lra": 6.2,
+          "input_thresh": -40.32,
+          "output_i": -15.71,
+          "output_tp": -1,
+          "output_lra": 4.8,
+          "output_thresh": -26.49,
+          "normalization_type": "dynamic",
+          "target_offset": -0.29
+        },
+        "silence": {
+          "leading": 0.967143,
+          "trailing": 0
+        }
+      },
+      "output": {
+        "duration": 24.328163,
+        "sizeBytes": 585882,
+        "bitRate": 192659,
+        "codec": "mp3",
+        "sampleRate": 44100,
+        "channels": 2,
+        "loudness": {
+          "input_i": -15.91,
+          "input_tp": -1.24,
+          "input_lra": 4.1,
+          "input_thresh": -26.5,
+          "output_i": -15.94,
+          "output_tp": -1.33,
+          "output_lra": 3.9,
+          "output_thresh": -26.59,
+          "normalization_type": "dynamic",
+          "target_offset": -0.06
+        },
+        "silence": {
+          "leading": 0,
+          "trailing": 0
+        }
+      }
+    }
+  ]
+}
