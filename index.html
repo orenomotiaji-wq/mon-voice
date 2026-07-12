@@ -14,13 +14,14 @@
     <meta name="twitter:card" content="summary_large_image">
     <link rel="icon" href="assets/images/favicon.png" type="image/png">
     <link rel="preload" href="assets/images/アイコン.png" as="image">
-    <link rel="stylesheet" href="assets/css/styles.css?v=20260712">
+    <link rel="stylesheet" href="assets/css/styles.css?v=20260713">
   </head>
   <body>
     <header class="site-header">
       <a class="brand" href="#home" aria-label="MON home">MON</a>
       <nav class="site-nav" aria-label="Main navigation">
         <a href="#voice-sample" data-i18n="navVoice">VOICE SAMPLE</a>
+        <a href="#monthly-plan">MONTHLY PLAN</a>
         <a href="#achievements" data-i18n="navAchievements">ACHIEVEMENTS</a>
         <a href="#about" data-i18n="navAbout">ABOUT</a>
         <a href="#contact" data-i18n="navContact">CONTACT</a>
@@ -114,6 +115,50 @@
         </div>
       </section>
 
+      <section class="section monthly-plan" id="monthly-plan" aria-labelledby="monthly-title" lang="ja">
+        <div class="section-heading">
+          <p class="eyebrow">MONTHLY PLAN</p>
+          <h2 id="monthly-title">法人向けナレーション月額プラン</h2>
+          <p>毎月の動画制作に、いつもの声を。企業動画・研修・商品紹介を継続制作する法人向けの、上限付き月額プランです。</p>
+        </div>
+        <div class="monthly-lead">
+          <div>
+            <p class="monthly-kicker">ナレーター探しを、毎月繰り返さない。</p>
+            <h3>企業動画の声を、月額で安定確保。</h3>
+            <p>企業VP、eラーニング、研修動画、WebCMなど、毎月発生するナレーション収録を安定して依頼しやすい形に整えました。無制限ではなく、文字数・本数・納期を明確にした法人向けプランです。</p>
+          </div>
+          <ul class="monthly-benefits">
+            <li>毎月の収録枠を確保</li>
+            <li>声のトーンを継続して統一</li>
+            <li>見積もり・発注の手間を削減</li>
+            <li>WAV / MP3・整音込み</li>
+          </ul>
+        </div>
+        <div class="plan-grid" id="monthly-plan-cards" aria-label="法人向け月額プラン比較"></div>
+        <div class="monthly-detail-grid">
+          <article class="monthly-detail">
+            <h3>対応範囲</h3>
+            <ul id="monthly-included"></ul>
+          </article>
+          <article class="monthly-detail">
+            <h3>別料金・対象外</h3>
+            <ul id="monthly-excluded"></ul>
+          </article>
+          <article class="monthly-detail">
+            <h3>共通条件</h3>
+            <dl id="monthly-terms"></dl>
+          </article>
+        </div>
+        <div class="monthly-faq" id="monthly-faq" aria-label="法人向け月額プランFAQ"></div>
+        <div class="monthly-cta">
+          <p>月間の制作本数、原稿量、用途を確認した上で、最適なプランをご提案します。</p>
+          <div class="monthly-actions">
+            <a class="primary-link" href="mailto:mon.voice.jp@gmail.com">メールで相談する</a>
+            <a href="https://coconala.com/services/618253" target="_blank" rel="noopener">ココナラで相談する</a>
+          </div>
+        </div>
+      </section>
+
       <section class="section achievements" id="achievements" aria-labelledby="achievements-title">
         <div class="section-heading">
           <p class="eyebrow" data-i18n="achievementsEyebrow">ACHIEVEMENTS</p>
@@ -200,6 +245,7 @@
       <p>© <span id="year"></span> MON. All rights reserved.</p>
     </footer>
 
-    <script src="assets/js/main.js?v=20260712"></script>
+    <script src="assets/js/main.js?v=20260713"></script>
+    <script src="assets/js/monthly-plan.js?v=20260713"></script>
   </body>
 </html>
