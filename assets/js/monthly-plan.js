@@ -3,7 +3,7 @@ const monthlyPlanData = {
     {
       name: "Light",
       label: "月1〜2本の小規模動画向け",
-      price: "58,000円 / 月",
+      price: "60,000円 / 月",
       featured: false,
       specs: [
         ["月間文字数", "1,200文字まで"],
@@ -18,7 +18,7 @@ const monthlyPlanData = {
     {
       name: "Standard",
       label: "最もおすすめ",
-      price: "118,000円 / 月",
+      price: "120,000円 / 月",
       featured: true,
       specs: [
         ["月間文字数", "3,000文字まで"],
